@@ -1,0 +1,13 @@
+
+---
+
+### **7️⃣ `.gitignore`** – Ignore unnecessary files
+```gitignore
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore user-specific configuration
+branding-plugin/config.json
