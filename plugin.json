@@ -1,0 +1,7 @@
+{
+    "name": "OpenWebUI Branding Plugin",
+    "description": "Customize the branding of OpenWebUI with your own assets.",
+    "author": "Sami Ahmed",
+    "version": "1.0.0",
+    "entrypoint": "branding-plugin/branding.py"
+}

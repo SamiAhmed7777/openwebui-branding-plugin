@@ -1,0 +1,12 @@
+{
+    "branding": {
+        "webui_name": "Chat.Sami",
+        "custom_assets": {
+            "favicon.png": "assets/favicon.png",
+            "favicon.svg": "assets/favicon.svg",
+            "splash.png": "assets/splash.png",
+            "splash-dark.png": "assets/splash-dark.png",
+            "logo.png": "assets/logo.png"
+        }
+    }
+}
